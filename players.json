@@ -1,22 +1,22 @@
 [
   {
     "Player 1": {
-      "name": "James Brown",
-      "sports": "Basketball",
-      "team": {
-        "name": "Raptors",
-        "city": "Toronto"
+      "name": "James Brown", //string
+      "sports": "Basketball",  //string
+      "team": {   //array
+        "name": "Raptors", //string
+        "city": "Toronto" //string
       },
-      "position": "forward"
+      "position": "forward" //string
     },
-    "Player 2": {
-      "name": "Jordan Air",
-      "sports": "Basketball",
-      "team": {
-        "name": "Raptors",
-        "city": "Toronto"
+    "Player 2": { //array
+      "name": "Jordan Air", //string
+      "sports": "Basketball", //string
+      "team": {  //array
+        "name": "Raptors", //string
+        "city": "Toronto"  //string
       },
-      "position": "Center"
+      "position": "Center" //string
     }
   }
 ]
