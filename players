@@ -1,0 +1,15 @@
+---
+- Player 1:
+    name: James Brown
+    sports: Basketball
+    team:
+      name: Raptors
+      city: Toronto
+    position: forward
+  Player 2:
+    name: Jordan Air
+    sports: Basketball
+    team:
+      name: Raptors
+      city: Toronto
+    position: Center
